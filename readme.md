@@ -43,7 +43,7 @@ First, you need to enter the build directory under the TRAIN folder and run the 
 
 You can also modify our shell directly in the script.
 
-| 参数名                        | 说明                                                         |
+| Parameter Name                        | Description                                                         |
 | ----------------------------- | ------------------------------------------------------------ |
 | `data_dir`                    | The directory where the data is located (ending with `/`)    |
 | `dataid`                      | Dataset name (file name prefix, default is `.data` suffix)   |
