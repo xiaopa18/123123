@@ -87,8 +87,8 @@ First, you need to enter the build directory under the DEFL_HNSW folder and run 
 | Parameter Name       | Description                                                       |
 | :----------- | :--------------------------------------------------------- |
 | `dataid`     | Dataset name (file name prefix, default is `.data` suffix) |
-| `M`          | HNSW 算法中的参数 M                                        |
-| `ef`         | HNSW 算法中的参数 ef                                       |
+| `M`          | Parameter M in the HNSW algorithm                                        |
+| `ef`         | Parameter ef in the HNSW algorithm                                       |
 | `tag_cnt`    | k in knn of gt set                                         |
 | `model_dir`  | The directory where the model is located                   |
 | `model_file` | Model file name                                            |
