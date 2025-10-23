@@ -65,7 +65,7 @@ First, you need to enter the build directory under the DEFL_IVF folder and run t
 ./main <data_dir> <dataid> <queryid> <modeldir> <modelname> <outtag> <r> <nlist>
 ```
 
-| 参数名        | 说明                                                         |
+| Parameter Name        | Description                                                         |
 | ------------- | ------------------------------------------------------------ |
 | `<data_dir>`  | The directory where the data is located (ending with `/`)    |
 | `<dataid>`    | Dataset name (file name prefix, default is `.data` suffix)   |
@@ -84,7 +84,7 @@ First, you need to enter the build directory under the DEFL_HNSW folder and run 
 ./main <data_dir> <dataid> <M> <ef> <tag_cnt> <model_dir> <model_file> <out_tag> <query_cnt> <query_id_1> ... <query_id_n>
 ```
 
-| 参数名       | 说明                                                       |
+| Parameter Name       | Description                                                       |
 | :----------- | :--------------------------------------------------------- |
 | `dataid`     | Dataset name (file name prefix, default is `.data` suffix) |
 | `M`          | HNSW 算法中的参数 M                                        |
