@@ -101,7 +101,7 @@ The data file ends with .data.
 
 The first eight bytes consist of two int, which are the number of points n and the number of dimensions $dim$ in the data set.
 
-The rest consists of $n*dim*4$ bytes, a total of $n*dim$ float types
+The rest consists of $n*dim*4 $ bytes, a total of $n*dim$ float types
 
 ```
 n d(int)
